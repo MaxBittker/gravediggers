@@ -1,0 +1,23 @@
+{
+  "name": "gravediggers",
+  "version": "1.0.0",
+  "description": "some scripts for scraping up corpuses of text for text and generative work !",
+  "main": "poemhunter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxBittker/gravediggers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxBittker/gravediggers/issues"
+  },
+  "homepage": "https://github.com/MaxBittker/gravediggers#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  }
+}
